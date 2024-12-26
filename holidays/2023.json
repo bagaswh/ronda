@@ -1,0 +1,578 @@
+[
+  {
+    "date": "January 1",
+    "day": 1,
+    "monthIndex": 0,
+    "weekday": "Sunday",
+    "name": "New Year's Day",
+    "notes": ""
+  },
+  {
+    "date": "January 3",
+    "day": 3,
+    "monthIndex": 0,
+    "weekday": "Tuesday",
+    "name": "Ministry of Religious Affairs Day",
+    "notes": ""
+  },
+  {
+    "date": "January 15",
+    "day": 15,
+    "monthIndex": 0,
+    "weekday": "Sunday",
+    "name": "Ocean Duty Day",
+    "notes": ""
+  },
+  {
+    "date": "January 22",
+    "day": 22,
+    "monthIndex": 0,
+    "weekday": "Sunday",
+    "name": "Lunar New Year's Day",
+    "notes": ""
+  },
+  {
+    "date": "February 5",
+    "day": 5,
+    "monthIndex": 1,
+    "weekday": "Sunday",
+    "name": "Lantern Festival",
+    "notes": ""
+  },
+  {
+    "date": "February 18",
+    "day": 18,
+    "monthIndex": 1,
+    "weekday": "Saturday",
+    "name": "Muhammad's Ascension to Heaven",
+    "notes": ""
+  },
+  {
+    "date": "February 18",
+    "day": 18,
+    "monthIndex": 1,
+    "weekday": "Saturday",
+    "name": "Maha Shivaratri",
+    "notes": ""
+  },
+  {
+    "date": "March 8",
+    "day": 8,
+    "monthIndex": 2,
+    "weekday": "Wednesday",
+    "name": "Festival of Colors",
+    "notes": ""
+  },
+  {
+    "date": "March 20",
+    "day": 20,
+    "monthIndex": 2,
+    "weekday": "Monday",
+    "name": "March Equinox",
+    "notes": ""
+  },
+  {
+    "date": "March 22",
+    "day": 22,
+    "monthIndex": 2,
+    "weekday": "Wednesday",
+    "name": "Day of Silence",
+    "notes": ""
+  },
+  {
+    "date": "April 6",
+    "day": 6,
+    "monthIndex": 3,
+    "weekday": "Thursday",
+    "name": "National Fisherman Day",
+    "notes": ""
+  },
+  {
+    "date": "April 7",
+    "day": 7,
+    "monthIndex": 3,
+    "weekday": "Friday",
+    "name": "Good Friday",
+    "notes": "Long weekend."
+  },
+  {
+    "date": "April 9",
+    "day": 9,
+    "monthIndex": 3,
+    "weekday": "Sunday",
+    "name": "Easter",
+    "notes": ""
+  },
+  {
+    "date": "April 9",
+    "day": 9,
+    "monthIndex": 3,
+    "weekday": "Sunday",
+    "name": "Air Force Day",
+    "notes": ""
+  },
+  {
+    "date": "April 21",
+    "day": 21,
+    "monthIndex": 3,
+    "weekday": "Friday",
+    "name": "Kartini Day",
+    "notes": ""
+  },
+  {
+    "date": "April 22",
+    "day": 22,
+    "monthIndex": 3,
+    "weekday": "Saturday",
+    "name": "Festival of Breaking the Fast",
+    "notes": ""
+  },
+  {
+    "date": "April 22",
+    "day": 22,
+    "monthIndex": 3,
+    "weekday": "Saturday",
+    "name": "Earth Day",
+    "notes": ""
+  },
+  {
+    "date": "April 23",
+    "day": 23,
+    "monthIndex": 3,
+    "weekday": "Sunday",
+    "name": "Second Day of the Festival of Breaking the Fast",
+    "notes": ""
+  },
+  {
+    "date": "May 1",
+    "day": 1,
+    "monthIndex": 4,
+    "weekday": "Monday",
+    "name": "Labor Day",
+    "notes": "Long weekend."
+  },
+  {
+    "date": "May 2",
+    "day": 2,
+    "monthIndex": 4,
+    "weekday": "Tuesday",
+    "name": "National Education Day",
+    "notes": ""
+  },
+  {
+    "date": "May 11",
+    "day": 11,
+    "monthIndex": 4,
+    "weekday": "Thursday",
+    "name": "Day of the Military Police of the Indonesian National Armed Forces",
+    "notes": ""
+  },
+  {
+    "date": "May 18",
+    "day": 18,
+    "monthIndex": 4,
+    "weekday": "Thursday",
+    "name": "Feast of the Ascension of Jesus Christ",
+    "notes": ""
+  },
+  {
+    "date": "May 20",
+    "day": 20,
+    "monthIndex": 4,
+    "weekday": "Saturday",
+    "name": "National Awakening Day",
+    "notes": ""
+  },
+  {
+    "date": "May 29",
+    "day": 29,
+    "monthIndex": 4,
+    "weekday": "Monday",
+    "name": "National Elderly Day",
+    "notes": ""
+  },
+  {
+    "date": "June 1",
+    "day": 1,
+    "monthIndex": 5,
+    "weekday": "Thursday",
+    "name": "Pancasila Day",
+    "notes": ""
+  },
+  {
+    "date": "June 2",
+    "day": 2,
+    "monthIndex": 5,
+    "weekday": "Friday",
+    "name": "Buddha's Birthday (Observed)",
+    "notes": "Long weekend."
+  },
+  {
+    "date": "June 4",
+    "day": 4,
+    "monthIndex": 5,
+    "weekday": "Sunday",
+    "name": "Buddha's Birthday",
+    "notes": "Long weekend."
+  },
+  {
+    "date": "June 21",
+    "day": 21,
+    "monthIndex": 5,
+    "weekday": "Wednesday",
+    "name": "June Solstice",
+    "notes": ""
+  },
+  {
+    "date": "June 29",
+    "day": 29,
+    "monthIndex": 5,
+    "weekday": "Thursday",
+    "name": "National Family Day",
+    "notes": ""
+  },
+  {
+    "date": "July 19",
+    "day": 19,
+    "monthIndex": 6,
+    "weekday": "Wednesday",
+    "name": "Islamic New Year's Day",
+    "notes": ""
+  },
+  {
+    "date": "July 22",
+    "day": 22,
+    "monthIndex": 6,
+    "weekday": "Saturday",
+    "name": "Attorney Day",
+    "notes": ""
+  },
+  {
+    "date": "July 23",
+    "day": 23,
+    "monthIndex": 6,
+    "weekday": "Sunday",
+    "name": "National Children Day",
+    "notes": ""
+  },
+  {
+    "date": "July 29",
+    "day": 29,
+    "monthIndex": 6,
+    "weekday": "Saturday",
+    "name": "Feast of the Sacrifice",
+    "notes": ""
+  },
+  {
+    "date": "August 10",
+    "day": 10,
+    "monthIndex": 7,
+    "weekday": "Thursday",
+    "name": "National Veterans Day",
+    "notes": ""
+  },
+  {
+    "date": "August 10",
+    "day": 10,
+    "monthIndex": 7,
+    "weekday": "Thursday",
+    "name": "National Technology Uprising Day",
+    "notes": ""
+  },
+  {
+    "date": "August 14",
+    "day": 14,
+    "monthIndex": 7,
+    "weekday": "Monday",
+    "name": "Indonesian Scout Movement Day",
+    "notes": ""
+  },
+  {
+    "date": "August 17",
+    "day": 17,
+    "monthIndex": 7,
+    "weekday": "Thursday",
+    "name": "Independence Day",
+    "notes": ""
+  },
+  {
+    "date": "August 19",
+    "day": 19,
+    "monthIndex": 7,
+    "weekday": "Saturday",
+    "name": "Raksha Bandhan",
+    "notes": ""
+  },
+  {
+    "date": "August 24",
+    "day": 24,
+    "monthIndex": 7,
+    "weekday": "Thursday",
+    "name": "Television Day",
+    "notes": ""
+  },
+  {
+    "date": "September 6",
+    "day": 6,
+    "monthIndex": 8,
+    "weekday": "Wednesday",
+    "name": "Janmashtami",
+    "notes": ""
+  },
+  {
+    "date": "September 11",
+    "day": 11,
+    "monthIndex": 8,
+    "weekday": "Monday",
+    "name": "Radio Republik Indonesia Day",
+    "notes": ""
+  },
+  {
+    "date": "September 19",
+    "day": 19,
+    "monthIndex": 8,
+    "weekday": "Tuesday",
+    "name": "Ganesh Chaturthi",
+    "notes": ""
+  },
+  {
+    "date": "September 23",
+    "day": 23,
+    "monthIndex": 8,
+    "weekday": "Saturday",
+    "name": "National Maritime Day",
+    "notes": ""
+  },
+  {
+    "date": "September 23",
+    "day": 23,
+    "monthIndex": 8,
+    "weekday": "Saturday",
+    "name": "September Equinox",
+    "notes": ""
+  },
+  {
+    "date": "September 24",
+    "day": 24,
+    "monthIndex": 8,
+    "weekday": "Sunday",
+    "name": "National Peasants' Day",
+    "notes": ""
+  },
+  {
+    "date": "September 27",
+    "day": 27,
+    "monthIndex": 8,
+    "weekday": "Wednesday",
+    "name": "Post and Telecommunications' Service Day",
+    "notes": ""
+  },
+  {
+    "date": "September 28",
+    "day": 28,
+    "monthIndex": 8,
+    "weekday": "Thursday",
+    "name": "Birth of the Prophet",
+    "notes": ""
+  },
+  {
+    "date": "September 28",
+    "day": 28,
+    "monthIndex": 8,
+    "weekday": "Thursday",
+    "name": "Railway Day",
+    "notes": ""
+  },
+  {
+    "date": "October 1",
+    "day": 1,
+    "monthIndex": 9,
+    "weekday": "Sunday",
+    "name": "National Day of Pancasila Sanctity and September 30th Movement Memorial Day",
+    "notes": ""
+  },
+  {
+    "date": "October 2",
+    "day": 2,
+    "monthIndex": 9,
+    "weekday": "Monday",
+    "name": "National Batik Day",
+    "notes": ""
+  },
+  {
+    "date": "October 5",
+    "day": 5,
+    "monthIndex": 9,
+    "weekday": "Thursday",
+    "name": "Indonesian National Armed Forces Day",
+    "notes": ""
+  },
+  {
+    "date": "October 15",
+    "day": 15,
+    "monthIndex": 9,
+    "weekday": "Sunday",
+    "name": "Navaratri",
+    "notes": ""
+  },
+  {
+    "date": "October 22",
+    "day": 22,
+    "monthIndex": 9,
+    "weekday": "Sunday",
+    "name": "National Santri Day",
+    "notes": ""
+  },
+  {
+    "date": "October 24",
+    "day": 24,
+    "monthIndex": 9,
+    "weekday": "Tuesday",
+    "name": "Dussehra",
+    "notes": ""
+  },
+  {
+    "date": "October 28",
+    "day": 28,
+    "monthIndex": 9,
+    "weekday": "Saturday",
+    "name": "Youth Pledge Day",
+    "notes": ""
+  },
+  {
+    "date": "October 30",
+    "day": 30,
+    "monthIndex": 9,
+    "weekday": "Monday",
+    "name": "Indonesian Finance Day",
+    "notes": ""
+  },
+  {
+    "date": "November 10",
+    "day": 10,
+    "monthIndex": 10,
+    "weekday": "Friday",
+    "name": "Heroes' Day",
+    "notes": ""
+  },
+  {
+    "date": "November 12",
+    "day": 12,
+    "monthIndex": 10,
+    "weekday": "Sunday",
+    "name": "Father's Day",
+    "notes": ""
+  },
+  {
+    "date": "November 12",
+    "day": 12,
+    "monthIndex": 10,
+    "weekday": "Sunday",
+    "name": "National Health Day",
+    "notes": ""
+  },
+  {
+    "date": "November 12",
+    "day": 12,
+    "monthIndex": 10,
+    "weekday": "Sunday",
+    "name": "Festival of Lights",
+    "notes": ""
+  },
+  {
+    "date": "November 14",
+    "day": 14,
+    "monthIndex": 10,
+    "weekday": "Tuesday",
+    "name": "Mobile Brigade Day",
+    "notes": ""
+  },
+  {
+    "date": "November 14",
+    "day": 14,
+    "monthIndex": 10,
+    "weekday": "Tuesday",
+    "name": "World Diabetes Day",
+    "notes": ""
+  },
+  {
+    "date": "November 15",
+    "day": 15,
+    "monthIndex": 10,
+    "weekday": "Wednesday",
+    "name": "Indonesian Marine Corps Birthday",
+    "notes": ""
+  },
+  {
+    "date": "November 25",
+    "day": 25,
+    "monthIndex": 10,
+    "weekday": "Saturday",
+    "name": "Teachers' Day",
+    "notes": ""
+  },
+  {
+    "date": "November 29",
+    "day": 29,
+    "monthIndex": 10,
+    "weekday": "Wednesday",
+    "name": "Anniversary of the Employees' Corps of the Republic of Indonesia",
+    "notes": ""
+  },
+  {
+    "date": "December 13",
+    "day": 13,
+    "monthIndex": 11,
+    "weekday": "Wednesday",
+    "name": "Nusantara Day",
+    "notes": ""
+  },
+  {
+    "date": "December 15",
+    "day": 15,
+    "monthIndex": 11,
+    "weekday": "Friday",
+    "name": "Indonesian Army Day",
+    "notes": ""
+  },
+  {
+    "date": "December 22",
+    "day": 22,
+    "monthIndex": 11,
+    "weekday": "Friday",
+    "name": "Mother's Day",
+    "notes": ""
+  },
+  {
+    "date": "December 22",
+    "day": 22,
+    "monthIndex": 11,
+    "weekday": "Friday",
+    "name": "December Solstice",
+    "notes": ""
+  },
+  {
+    "date": "December 24",
+    "day": 24,
+    "monthIndex": 11,
+    "weekday": "Sunday",
+    "name": "Christmas Eve",
+    "notes": ""
+  },
+  {
+    "date": "December 25",
+    "day": 25,
+    "monthIndex": 11,
+    "weekday": "Monday",
+    "name": "Christmas Day",
+    "notes": "Long weekend."
+  },
+  {
+    "date": "December 31",
+    "day": 31,
+    "monthIndex": 11,
+    "weekday": "Sunday",
+    "name": "New Year's Eve",
+    "notes": ""
+  }
+]
